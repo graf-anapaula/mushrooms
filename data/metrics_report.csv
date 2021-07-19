@@ -1,0 +1,10 @@
+.metric,.estimator,.estimate,method
+rmse,standard,0.2368302306564602,lasso
+rsq,standard,0.866422437179597,lasso
+mae,standard,0.20668144421643078,lasso
+rmse,standard,3.9106536533941986e-15,lm
+mae,standard,2.988524716619369e-15,lm
+rsq,standard,1,lm
+rmse,standard,0.06457111379356623,ridge
+rsq,standard,0.9862029163688945,ridge
+mae,standard,0.04401932266856024,ridge

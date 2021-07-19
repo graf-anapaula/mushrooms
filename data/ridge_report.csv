@@ -1,0 +1,4 @@
+.metric,.estimator,.estimate,method
+rmse,standard,0.06457111379356623,ridge
+rsq,standard,0.9862029163688945,ridge
+mae,standard,0.04401932266856024,ridge
